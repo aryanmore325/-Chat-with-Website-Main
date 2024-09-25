@@ -13,7 +13,7 @@ This Streamlit application allows users to chat with an AI assistant that has kn
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/multi-website-chatbot.git
+   git clone https://github.com/aryanmore325/multi-website-chatbot.git
    cd multi-website-chatbot
    ```
 
